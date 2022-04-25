@@ -11,3 +11,6 @@ También revisaremos las funciones una de las características más poderosas de
 ## Objetivo
 
 Al terminar los ejemplos y ejercicios agrega el link a continuación.
+
+[Laboratorio Logrado](https://github.com/karenqueca9/javascript-lab-02)
+
